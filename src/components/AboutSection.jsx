@@ -34,12 +34,14 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
 
-              <a
-                href=""
-                className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
-              >
-                Download Resume
-              </a>
+            <a
+  href="/somya_raj_resume.pdf"
+  download
+  className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+>
+  Download Resume
+</a>
+
             </div>
           </div>
 
